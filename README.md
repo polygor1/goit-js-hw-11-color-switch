@@ -1,3 +1,3 @@
-# parcel-project-template
+# goit-js-hw-11-color-switch
 
-parcel-project-template
+Color switch
